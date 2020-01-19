@@ -3,7 +3,6 @@
 
 # ### Week one Homework 
 # Submitted by Alyson Chen
-# 
 # Submitted to Professor Peigang Zhang
 
 # In[4]:
